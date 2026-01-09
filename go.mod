@@ -1,3 +1,3 @@
-module github.com/wagslane/pokedex
+module github.com/MatteoLeccese/pokedex
 
-go 1.22.2
+go 1.25.1
